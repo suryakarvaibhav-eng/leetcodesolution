@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
