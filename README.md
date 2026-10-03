@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0022-generate-parentheses) |
+| [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
