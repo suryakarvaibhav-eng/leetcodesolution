@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
