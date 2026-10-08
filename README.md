@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0575-distribute-candies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-valid-mountain-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1051-height-checker) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0575-distribute-candies](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
