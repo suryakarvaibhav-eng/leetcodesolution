@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
 | [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0575-distribute-candies) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
