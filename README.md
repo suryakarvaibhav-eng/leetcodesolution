@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1051-height-checker) |
 | [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 ## Greedy
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0075-sort-colors) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1051-height-checker) |
 | [2706-buy-two-chocolates](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/2706-buy-two-chocolates) |
 ## Math
