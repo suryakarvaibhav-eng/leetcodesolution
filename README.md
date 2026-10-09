@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
