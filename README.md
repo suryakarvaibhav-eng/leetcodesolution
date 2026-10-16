@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0022-generate-parentheses) |
+| [0394-decode-string](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
