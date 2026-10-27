@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0394-decode-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/suryakarvaibhav-eng/leetcodesolution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
